@@ -30,7 +30,7 @@ body {
 
 .hero_area {
   height: 90vh;
-  background-image: url(../images/main-bg.jpg);
+  /* background-image: url(../images/main-bg.jpg); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
@@ -45,7 +45,7 @@ body {
   display: none;
 }
 
-.hero_area::after {
+/* .hero_area::after {
   position: absolute;
   content: "";
   background-image: url(../images/blue-bg.png);
@@ -56,11 +56,14 @@ body {
   top: 98.5%;
   right: -4%;
   z-index: -1;
-}
+} */
 
 /*header section*/
 
 
+.logo {
+  width: 50%;
+}
 
 .logo-box {
   padding-top: 5px;
