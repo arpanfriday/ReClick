@@ -284,7 +284,7 @@ a:focus {
 
 /* end slider section */
 
-/* about section */
+/* _a section */
 .about_section {
   padding-top: 50px;
   position: relative;
@@ -320,7 +320,7 @@ a:focus {
   height: 100%;
   top: 0;
   left: 0;
-  background-color: #02caf0;
+  background-color: #DCD42E;
   z-index: -1;
 }
 
@@ -357,7 +357,7 @@ a:focus {
   content: "";
   width: 18%;
   height: 10%;
-  background-color: #02caf0;
+  background-color: #DCD42E;
   position: absolute;
   right: 0;
   bottom: 25%;
