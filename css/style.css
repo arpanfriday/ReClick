@@ -29,7 +29,7 @@ body {
 }
 
 .hero_area {
-  height: 90vh;
+  height: 60vh;
   /* background-image: url(../images/main-bg.jpg); */
   background-repeat: no-repeat;
   background-size: cover;
@@ -72,7 +72,7 @@ body {
 .logo-box span {
   font-size: 22px;
   font-weight: bold;
-  color: #0a0057;
+  color: #AB9A2B;
   font-family: "Roboto", sans-serif;
 }
 
@@ -112,7 +112,7 @@ body {
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
   padding: 10px 30px;
-  color: #0a0057;
+  color: #AB9A2B;
   text-align: center;
 }
 
@@ -134,11 +134,11 @@ a:focus {
 }
 
 .heading_style {
-  border-left: 12px solid #78cffd;
+  border-left: 12px solid #DCD42E;
   font-size: 40px;
   padding-left: 3px;
   font-weight: lighter;
-  color: #0a0057;
+  color: #AB9A2B;
 }
 
 .custom_nav-container .navbar-toggler {}
@@ -214,7 +214,7 @@ a:focus {
 
 .slider_form-box form button {
   border: none;
-  background-color: #78cffd;
+  background-color: #DCD42E;
   color: #fff;
   padding: 10px 25px;
 }
@@ -237,17 +237,16 @@ a:focus {
 .quote-btn,
 .read-btn:hover,
 .quote-btn:hover {
-  padding: 15px 20px;
-
+  padding: 15px;
   color: #fff;
 }
 
 .read-btn {
-  background-color: #78cffd;
+  background-color: #DCD42E;
 }
 
 .quote-btn {
-  background-color: #0a0057;
+  background-color: #AB9A2B;
 }
 
 .read-btn img,
@@ -269,7 +268,7 @@ a:focus {
 .slider_section .carousel-indicators li {
   width: 15px;
   height: 15px;
-  background-color: #78cffd;
+  background-color: #DCD42E;
   background-clip: padding-box;
   margin: 3px;
   border: none;
@@ -279,7 +278,7 @@ a:focus {
 }
 
 .slider_section .carousel-indicators .active {
-  background-color: #0a0057;
+  background-color: #AB9A2B;
 }
 
 
@@ -418,7 +417,7 @@ a:focus {
 .service-btn,
 .service-btn:hover {
   padding: 7px 12px;
-  background-color: #0a0057;
+  background-color: #AB9A2B;
   color: #fff;
 }
 
@@ -430,7 +429,7 @@ a:focus {
 
 .shop_section .row {
   margin-top: 100px;
-  background-color: #0a0057;
+  background-color: #AB9A2B;
 }
 
 .shop-detail {
@@ -438,7 +437,7 @@ a:focus {
 }
 
 .shop-detail h5 {
-  color: #78cffd;
+  color: #DCD42E;
   font-size: 22px;
 }
 
@@ -482,7 +481,7 @@ a:focus {
 
 .client_detail h5 {
   padding-left: 20%;
-  color: #78cffd;
+  color: #DCD42E;
 }
 
 .client_detail p {
@@ -506,7 +505,7 @@ a:focus {
 .client_section .carousel-indicators li {
   width: 21px;
   height: 10px;
-  background-color: #0a0057;
+  background-color: #AB9A2B;
   background-clip: padding-box;
   margin: 0;
   border: none;
@@ -515,14 +514,14 @@ a:focus {
 }
 
 .client_section .carousel-indicators .active {
-  background-color: #78cffd;
+  background-color: #DCD42E;
 }
 
 /* end client section */
 
 /* company section */
 .company_section {
-  background-color: #78cffd;
+  background-color: #DCD42E;
 }
 
 .company-detail h3 {
@@ -545,7 +544,7 @@ a:focus {
 
 .contact_form-container {
   padding: 60px;
-  background-color: #78cffd;
+  background-color: #DCD42E;
   position: relative;
 }
 
@@ -571,7 +570,7 @@ a:focus {
   border: none;
   display: inline-block;
   padding: 8px 40px;
-  background-color: #0a0057;
+  background-color: #AB9A2B;
   color: #fff;
 
   margin-top: 20px;
@@ -582,7 +581,7 @@ a:focus {
   content: "";
   width: 50px;
   height: 50px;
-  background-color: #78cffd;
+  background-color: #DCD42E;
   position: absolute;
   /* right: 0; */
   /* bottom: 25%; */
@@ -649,7 +648,7 @@ a:focus {
 
 .info_news button {
   border: none;
-  background-color: #78cffd;
+  background-color: #DCD42E;
   color: #fff;
   padding: 7px 12px;
   margin-top: 10px;
@@ -687,7 +686,7 @@ a:focus {
 /* footer section*/
 
 .footer_section {
-  background-color: #78cffd;
+  background-color: #DCD42E;
   padding: 20px 0;
   font-family: "Roboto", sans-serif;
 }
