@@ -141,7 +141,7 @@ a:focus {
   color: #AB9A2B;
 }
 
-.custom_nav-container .navbar-toggler {}
+/* .custom_nav-container .navbar-toggler {}
 
 .custom_nav-container .navbar-toggler .navbar-toggler-icon {}
 
@@ -149,7 +149,7 @@ a:focus {
 
 .navbar {}
 
-.nav-link:hover {}
+.nav-link:hover {} */
 
 .navbar-brand,
 .navbar-brand:hover {
@@ -380,6 +380,10 @@ a:focus {
 /* end about section */
 
 /* service section */
+.service-detail{
+  margin-bottom: 42px;
+}
+
 .service_img-box {
   position: relative;
 }
@@ -433,7 +437,7 @@ a:focus {
 
 /* shop section */
 
-.shop_section {}
+/* .shop_section {} */
 
 .shop_section .row {
   margin-top: 100px;
